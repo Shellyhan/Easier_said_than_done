@@ -9,7 +9,8 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
         <!-- Styles -->
-        <style>
+        <link rel="stylesheet" href="/css/style.css">
+        <!-- <style>
             html, body {
                 background-color: #fff;
                 color: #636b6f;
@@ -60,7 +61,7 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
-        </style>
+        </style> -->
         @yield('header')
     </head>
     <body>
